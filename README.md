@@ -1,39 +1,30 @@
-# 🐧 Penguen Veri Analiz Paneli (Interactive Data Analyzer)
+# Selam, ben Yavuz Selim! 👋
 
-Bu proje, popüler **Palmer Penguins** veri setini kullanarak kullanıcıya interaktif bir veri keşfi deneyimi sunan masaüstü tabanlı bir analiz aracıdır. Kullanıcıların farklı biyometrik ölçümleri seçerek penguen türleri arasındaki dağılımları ve istatistiksel özetleri görmesini sağlar.
+11. Sınıf Yazılım Bölümü öğrencisiyim. Teknolojiyi sadece kullanmayı değil, arkasındaki mantığı anlamayı ve çözüm üretmeyi seviyorum. 
 
----
-
-### 🚀 Öne Çıkan Özellikler
-* **Dinamik Analiz:** Kullanıcı; Vücut Kütlesi, Kanat Uzunluğu veya Gaga Boyutu gibi farklı parametreler arasında geçiş yapabilir.
-* **Yapay Bekleme (UX):** Kullanıcı deneyimini güçlendirmek için işlem sürecini hissettiren görsel yükleme barları (Progress Bar).
-* **Veri Görselleştirme:** Matplotlib altyapısı ile otomatik güncellenen istatistiksel grafikler.
-* **Hata Yönetimi:** Eksik verilerin (`NaN`) otomatik temizlenmesi ve çalışma zamanı hatalarının `try-except` blokları ile yönetilmesi.
+### 🛡️ Felsefem
+> "Yol, her gün yapılan antrenmandır." — **Miyamoto Musashi**
+Disipline, sürekli öğrenmeye ve karşılaşılan hatalardan ders çıkarmaya inanıyorum. Yazılımı sadece bir iş değil, bir zanaat olarak görüyorum.
 
 ---
 
-### 🛠️ Kullanılan Teknolojiler
+### 🚀 Nelerle İlgileniyorum?
+- 🐍 **Python:** Veri analizi, otomasyon ve GUI geliştirme (Pandas, Numpy, Tkinter).
+- 📊 **Veri Bilimi:** Ham veriyi anlamlı içgörülere dönüştürmek üzerine projeler geliştiriyorum.
+- 🤖 **Robotik:** Otonom sistemler ve kontrol algoritmaları üzerine okul projelerinde yer alıyorum.
+- ♟️ **Strateji:** Satranç oynamayı ve karmaşık problemleri küçük parçalara bölerek çözmeyi seviyorum.
+
+---
+
+### 🛠️ Yetenek Setim
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Veri%20Görselleştirme-orange?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📦 Kurulum ve Çalıştırma
+### 📫 Benimle Bağlantı Kurun
+- **LinkedIn:** (https://www.linkedin.com/in/yavuz-selim-pe%C5%9Fmen-9b2aba3b9/)
+- **Projem:** (https://github.com/YavuzSelim060917/Penguen-Veri-Analiz-Botu)
 
-1. **Depoyu klonlayın:**
-   ```bash
-   git clone [https://github.com/kullaniciadi/proje-adi.git](https://github.com/kullaniciadi/proje-adi.git)
-
-2. **Gerekli kütüphaneleri yükleyin:**
-   pip install pandas seaborn matplotlib
-
-3. **Uygulamayı başlatın:**
-   python arayuzlu_analiz.py
-
----
-
-### 🧠 Yazılım Mimarisi Hakkında
-Bu projede Hata Yönetimi (Error Handling) ve Veri Temizleme (Data Cleaning) süreçlerine odaklanılmıştır. Seaborn     kütüphanesinden çekilen ham veri, analiz öncesinde dropna() yöntemiyle stabilize edilmiştir. Arayüz tarafında ise    Python'un standart kütüphanesi olan Tkinter kullanılarak hafif ve hızlı bir yapı kurulmuştur.
+*"Hatalar, daha iyi bir kod yazmak için verilen en değerli ipuçlarıdır."*
