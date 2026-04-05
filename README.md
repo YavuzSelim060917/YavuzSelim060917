@@ -23,8 +23,11 @@ Disipline, sürekli öğrenmeye ve karşılaşılan hatalardan ders çıkarmaya 
 
 ---
 
-### 📫 Benimle Bağlantı Kurun
+### 📫 Benimle Bağlantı Kurun:
+
 - **LinkedIn:** (https://www.linkedin.com/in/yavuz-selim-pe%C5%9Fmen-9b2aba3b9/)
+  
 - **Projem:** (https://github.com/YavuzSelim060917/Penguen-Veri-Analiz-Botu)
+
 
 *"Hatalar, daha iyi bir kod yazmak için verilen en değerli ipuçlarıdır."*
