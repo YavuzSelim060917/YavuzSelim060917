@@ -16,7 +16,7 @@ Disipline, sürekli öğrenmeye ve karşılaşılan hatalardan ders çıkarmaya 
 
 ---
 
-### 🛠️ Yetenek Setim
+### 🛠️ Yetenek Setim:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
