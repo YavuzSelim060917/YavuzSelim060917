@@ -30,4 +30,4 @@ Disipline, sürekli öğrenmeye ve karşılaşılan hatalardan ders çıkarmaya 
 - **Projem:** (https://github.com/YavuzSelim060917/Penguen-Veri-Analiz-Botu)
 
 
-*"Hatalar, daha iyi bir kod yazmak için verilen en değerli ipuçlarıdır."*
+*"Hatalar daha iyi bir kod yazmak için verilen en değerli ipuçlarıdır."*
